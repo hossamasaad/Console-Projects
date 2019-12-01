@@ -1,1 +1,11 @@
+Hangman
+introduction to programming with python "MIT 6.0001" problem set 2
 
+is a guessing word game 
+
+
+--> at the begging the computer choose a random word and tell the player number of letters (as  "revier")
+--> the player have 6 worng tries 
+--> if player choose a letter in the word , it appear in every place in guessing word ( "r" >> "r_ _ _ _ r )")
+--> if choose worng number of tries decraase by one
+--> the player can enter "*" to get some hints
