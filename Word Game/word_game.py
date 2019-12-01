@@ -403,10 +403,9 @@ def play_game(word_list):
 
 
 #
-# Build data structures used for entire session and play game
-# Do not remove the "if __name__ == '__main__':" line - this code is executed
 # when the program is run directly, instead of through an import statement
 #
+
 if __name__ == '__main__':
     word_list = load_words()
     play_game(word_list)
