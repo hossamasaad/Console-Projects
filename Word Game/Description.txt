@@ -1,1 +1,9 @@
+Word Game
+introduction to programming with python "MIT 6.0001" problem set 3
 
+is a game the player have some letters on hans and have to make some words to get ore score
+
+--> at the beginning the player determines the number of hands he will plays
+--> the player can change one letter form the hand once
+--> the player enter "!!" to finish the game
+--> the player has "*" on each hand which can replace with a vowel [a, e, u, o, i]`
