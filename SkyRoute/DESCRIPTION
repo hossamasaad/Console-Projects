@@ -1,0 +1,23 @@
+IDEA: 
+Find the shortest path between two landmarks  
+by return the nearest metro station and Destination station
+and shortest path between them
+
+This Project is applied to Graph Traversal BFS and DFS using python.
+
+this project contain some classes:
+
+skyroute:
+is the main class which contains functions i create to develop the project
+
+graph_search:
+which contain the impelentation of BFS and DFS algorithms that i used in project
+
+landmark_choices:
+a list if charachters which the user should input mapped to Landmarks
+
+vc_landmarks:
+lanmarks mapped to metro stations in this landmark
+
+vc_metro:
+every station and stations can be reached by this station
